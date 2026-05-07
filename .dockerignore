@@ -1,0 +1,4 @@
+.git
+venv
+jenkins_venv
+__pycache__
